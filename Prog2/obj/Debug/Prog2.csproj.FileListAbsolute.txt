@@ -1,0 +1,12 @@
+c:\users\vince\documents\visual studio 2012\Projects\Prog2\Prog2\bin\Debug\Prog2.exe.config
+c:\users\vince\documents\visual studio 2012\Projects\Prog2\Prog2\bin\Debug\Prog2.exe
+c:\users\vince\documents\visual studio 2012\Projects\Prog2\Prog2\bin\Debug\Prog2.pdb
+c:\users\vince\documents\visual studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+c:\users\vince\documents\visual studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.Form1.resources
+c:\users\vince\documents\visual studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+c:\users\vince\documents\visual studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+c:\users\vince\documents\visual studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.exe
+c:\users\vince\documents\visual studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\Vince Prince\Documents\CIS199\My Solutions\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\Vince Prince\Documents\CIS199\My Solutions\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\Vince Prince\Documents\CIS199\My Solutions\Prog2\Prog2\obj\Debug\Prog2.pdb
